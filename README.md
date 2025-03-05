@@ -6,11 +6,9 @@
 
 </br>
 
-- 🧠 Изучаю DL и NLP на курсах Deep Learning School
-
-- 🎓 Прохожу курс по глубокому обучению от Института теоретической и математической физики
-
-- 🌱 Хочу освоить профессию data scientist'а и попасть на стажировку, устроиться в штат
+- Люблю решать тяжелые задачи
+- Следующая цель - изучение продвинутых DL-технологий таких как stable deffuzion
+- Изучаю продуктовые методологии разработки и методы управления проектами
 
 </br>
 <hr style="border: 1px solid gray;" />
@@ -18,7 +16,7 @@
 ## 💻 Языки программирования
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="36" height="36" alt="PostgreSQL" />
 </a>
