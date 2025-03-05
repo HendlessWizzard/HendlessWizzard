@@ -1,11 +1,3 @@
-<!-- Добавляем стиль для оформления -->
-<style>
-  body {
-    background: url('https://source.unsplash.com/1600x900/?technology,data') no-repeat center center;
-    background-size: cover;
-  }
-</style>
-
 <h1 align="center">Привет, я Алексей! 👋</h1>
 
 <p align="center">
