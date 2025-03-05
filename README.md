@@ -30,20 +30,19 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="Visual Studio Code" /></a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="imgs/jupyter.svg" width="36" height="36" alt="Jupyter"/></a>
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="imgs/Google_Colaboratory_SVG_Logo.svg" width="36" height="36" alt="Google Colab" /></a>
-<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/latex.png" height="36" alt="LaTex" /></a>
 </p>
 
 <hr style="border: 1px solid gray;" />
 
 ## 📚 Библиотеки
-scikit-learn, pytorch, pandas, numpy, scipy, matplotlib, seaborn
+scikit-learn, pandas, numpy, scipy, matplotlib, seaborn, tansformers, torch, torchvison и т.д
 
 <hr style="border: 1px solid gray;" />
 
 
 ## ✉️ Связаться со мной
-<a href="https://t.me/iv_galkin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/iv__galkin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="20" alt="Telegram" /></a>
-<a href="mailto:ivanvgalkin@inbox.ru" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" height="20" alt="Mail ru" /></a>
+<a href="https://t.me/wordhes" target="_blank" rel="noreferrer">
+<a href="mailto:arbagrin2@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" height="20" alt="Gmail" /></a>
 <a href="https://github.com/iv-galkin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" height="20" alt="github" style="margin-bottom: 5px;"/>
 </a>
 </div>  
