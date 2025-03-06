@@ -48,6 +48,7 @@
 - `scipy`
 - `matplotlib`
 - `seaborn`
+- т.д
 
 ---
 
@@ -58,8 +59,5 @@
   </a>
   <a href="mailto:arbagrin2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
-  </a>
-  <a href="https://github.com/iv-galkin" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" height="30" />
   </a>
 </p>
